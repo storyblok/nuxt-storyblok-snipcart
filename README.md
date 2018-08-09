@@ -1,11 +1,7 @@
-# Nuxt.js Storyblok Boilerplate
+# Nuxt.js Storyblok Boilerplate including Snipcart
 
-## How to get started?
-
-1. [Register](https://app.storyblok.com/#!/signup) at Storyblok for free
-2. Create a new empty Space and exchange the preview token with your own in ```nuxt.config.js``` (not required if you have downloaded the project via app.storyblok.com)
-3. Read the Nuxt.js tutorial about Storyblok's concept: https://www.storyblok.com/tp/nuxt-js-multilanguage-website-tutorial
-4. Enjoy and start developing
+- [Tutorial Link](https://www.storyblok.com/tp/how-to-build-a-shop-with-nuxt-storyblok-and-snipcart)
+- [Demo Link](https://trusting-elion-259100.netlify.com/)
 
 ## Build Setup
 
@@ -23,6 +19,4 @@ $ npm start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
 
