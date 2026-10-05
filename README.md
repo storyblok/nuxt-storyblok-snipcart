@@ -1,3 +1,7 @@
+> [!WARNING]
+> This repository is no longer maintained.
+> For a current Nuxt + Storyblok starter, use [blueprint-core-nuxt](https://github.com/storyblok/blueprint-core-nuxt).
+
 # Nuxt.js Storyblok Boilerplate including Snipcart
 
 - [Tutorial Link](https://www.storyblok.com/tp/how-to-build-a-shop-with-nuxt-storyblok-and-snipcart)
